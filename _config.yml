@@ -1,2 +1,2 @@
 theme: jekyll-theme-cayman
-config core.ignorecase false
+config core.ignorecase true
